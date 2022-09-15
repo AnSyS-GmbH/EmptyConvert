@@ -9,7 +9,7 @@
             "name": "Sven-Uwe Bruch"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
