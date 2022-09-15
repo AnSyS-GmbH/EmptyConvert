@@ -1,5 +1,5 @@
 {
-    "name": "AnSyS/EmptyConvert",
+    "name": "ansys/emptyconvert",
     "description": "Möglichkeit leere Werte statt 0-Werte per REST-API zu übertragen.",
     "type": "magento2-module",
     "license": "OSL-3.0",
