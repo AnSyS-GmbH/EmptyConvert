@@ -3,9 +3,4 @@
   <type name="Magento\Framework\Webapi\ServiceInputProcessor">
      <plugin name="AnSySSpecialPrice" type="AnSyS\EmptyConvert\Plugin\ServiceInputProcessorPlugin" disabled="false"/>
   </type>
-  <!--
-  <type name="Magento\Catalog\Model\CategoryRepository">
-     <plugin name="AnSySCategorySaver" type="AnSyS\EmptyConvert\Plugin\CategoryRepositoryPlugin" disabled="false"/>
-  </type>
-  -->
 </config>
