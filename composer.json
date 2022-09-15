@@ -1,0 +1,21 @@
+{
+    "name": "AnSyS/EmptyConvert",
+    "description": "Möglichkeit leere Werte statt 0-Werte per REST-API zu übertragen.",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "subruch@ansys.de",
+            "name": "Sven-Uwe Bruch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AnSyS\\EmptyConvert\\": ""
+        }
+    }
+}
